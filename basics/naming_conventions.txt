@@ -1,0 +1,16 @@
+package main
+
+func main(){
+	// PascalCase
+	// struct, interfaces, enums
+
+	// snake_case
+	// variable, constants, filenames
+
+	// UPPERCASE
+	// constants: immutable
+
+	// mixedCase/camelCase
+	// isValid, htmlDocument
+	var isValid bool = true
+}
